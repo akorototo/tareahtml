@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body bgcolor="brown">
+    <p align="center"><font color="white">
+        <font face="Times New Roman"size="9">
+        HTML
+        </font>
+        </font>
+        <hr>
+    </p>
+    <p align="left">
+        <font color="white">
+            <font face="Times New Roman" size="4">
+            <b>
+HIPERVINCULOS DE HTML:
+            </b>
+</font>
+        </font>
+</p>
+<P><font face="Arial" size="4">
+<font color="yellow" size="5">S</font><b>e llama hipervínculo o hiperenlace a un tipo de elemento presente en los documentos electrónicos (páginas Web, 
+correos electrónicos, documentos digitales de texto, etc.)<br>
+
+Los hipervínculos consisten, pues, en la posibilidad de “saltar” de un texto a otro, de una información a otra,
+siguiendo el hilo de asociación de los intereses del usuario, más <br>
+que una lógica lineal y sucesiva como ocurre en la cultura tradicional.<br>
+</b>
+<p align="center">
+<img src="html.jpg" alt="" height="30%" width="30%">
+</p>
+<p align="center">
+<a href="https://concepto.de/hipervinculo/" target="_blank"> <i>enlace</i></a>
+</p>
+<p align="center">
+<a href="file:///C:/Users/maria/OneDrive/Documentos/tareaHTML/TAREA1AHTML.html" target="_blank"> <i>ver mas..</i></a>
+</p>
+
+</P>
+</body>
+</html>
